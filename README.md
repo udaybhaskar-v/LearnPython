@@ -1,2 +1,2 @@
 # LearnPython
-Created for lerning python
+Created for learning python
